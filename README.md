@@ -1,10 +1,12 @@
 # NiagaraFireworksExample
 This is a sample project for a fireworks effect in Niagara.
 
-ŠJ”­ŠÂ‹« : UE4.25.3<br><br>
+é–‹ç™ºç’°å¢ƒ : UE4.25.3<br><br>
 
-–{ƒvƒƒWƒFƒNƒg‚Í‰º‹L‚ÌUE4‚Õ‚¿ƒRƒ“Q‰Áì•i<br>
-uHanabeautifulv‚ÌÅ¬\¬‚ÌƒTƒ“ƒvƒ‹ƒvƒƒWƒFƒNƒg‚Å‚·<br>
-Niagara‚ÌŠwK‚È‚Ç‚ÌQl‚É‚È‚ê‚Î‚Æv‚¢‚Ü‚·<br>
-https://www.youtube.com/watch?v=97WwJyWN99g
+æœ¬ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã¯ä¸‹è¨˜ã®UE4ã·ã¡ã‚³ãƒ³å‚åŠ ä½œå“<br>
+ã€ŒHanabeautifulã€ã®æœ€å°æ§‹æˆã®ã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã§ã™<br>
+Niagaraã®å­¦ç¿’ãªã©ã®å‚è€ƒã«ãªã‚Œã°ã¨æ€ã„ã¾ã™<br>
 
+
+https://www.youtube.com/watch?v=97WwJyWN99g<br>
+[![Hanabeautiful](http://img.youtube.com/vi/97WwJyWN99g/0.jpg)
