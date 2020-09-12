@@ -10,3 +10,6 @@ Niagaraの学習などの参考になればと思います<br>
 
 https://www.youtube.com/watch?v=97WwJyWN99g<br>
 [![Hanabeautiful](http://img.youtube.com/vi/97WwJyWN99g/0.jpg)
+
+<br>本プロジェクトの動作イメージ<br>
+![anim](https://user-images.githubusercontent.com/8968076/92999895-b83e2480-f55f-11ea-87e5-33b162d276a8.gif)
