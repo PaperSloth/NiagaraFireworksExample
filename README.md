@@ -6,9 +6,7 @@ This is a sample project for a fireworks effect in Niagara.
 本プロジェクトは下記のUE4ぷちコン参加作品<br>
 「Hanabeautiful」のコアロジックのみを切り出した最小構成のサンプルプロジェクトです<br>
 Niagaraの学習などの参考になればと思います<br>
-【注意点】<br>
-諸事情によりこちらのプロジェクトの動作環境は60fps固定です<br>
-今後余裕があったら可変長フレームレートでも正しく動作するように修正しようと思います<br>
+Build/ 以下に実行ファイルも追加しました<br>
 
 
 https://www.youtube.com/watch?v=97WwJyWN99g<br>
