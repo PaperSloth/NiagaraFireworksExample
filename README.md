@@ -1,10 +1,18 @@
 # NiagaraFireworksExample
 This is a sample project for a fireworks effect in Niagara.
 
-�J���� : UE4.25.3<br><br>
+開発環境 : UE4.25.3<br><br>
 
-�{�v���W�F�N�g�͉��L��UE4�Ղ��R���Q����i<br>
-�uHanabeautiful�v�̍ŏ��\���̃T���v���v���W�F�N�g�ł�<br>
-Niagara�̊w�K�Ȃǂ̎Q�l�ɂȂ�΂Ǝv���܂�<br>
-https://www.youtube.com/watch?v=97WwJyWN99g
+本プロジェクトは下記のUE4ぷちコン参加作品<br>
+「Hanabeautiful」のコアロジックのみを切り出した最小構成のサンプルプロジェクトです<br>
+Niagaraの学習などの参考になればと思います<br>
+【注意点】<br>
+諸事情によりこちらのプロジェクトの動作環境は60fps固定です<br>
+今後余裕があったら可変長フレームレートでも正しく動作するように修正しようと思います<br>
 
+
+https://www.youtube.com/watch?v=97WwJyWN99g<br>
+[![Hanabeautiful](http://img.youtube.com/vi/97WwJyWN99g/0.jpg)](https://www.youtube.com/watch?v=97WwJyWN99g "Hanabeautiful")
+
+<br>本プロジェクトの動作イメージ<br>
+![anim](https://user-images.githubusercontent.com/8968076/92999895-b83e2480-f55f-11ea-87e5-33b162d276a8.gif)
